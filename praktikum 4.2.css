@@ -1,0 +1,135 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.body {
+    max-width: 1000px; 
+    border: 1px solid black; 
+    margin: auto; 
+    background-color: blanchedalmond;
+}
+
+.header {
+    background-color: gainsboro; 
+    border-bottom: 1px solid black;
+}
+
+.nav {
+    display: flex; 
+    padding: 10px; 
+    border-bottom: 1px solid black;
+}
+
+
+.ul1 {
+    display: flex; 
+    list-style-type: none; 
+    gap: 10px; 
+    margin-right: 20px; 
+}
+
+.ul2 {
+    display: flex; 
+    list-style-type: none; 
+    gap: 10px;
+}
+
+.ul3 {
+    display: flex; 
+    list-style-type: none; 
+    gap: 10px; margin-left: auto;
+}
+
+.adit1 {
+    display: flex; 
+    gap: 5px;
+}
+
+.nana1 {
+    width: 100%;
+}
+
+.hp1 {
+    background-color:#A9A9A9; 
+    padding: 20px; 
+    border-radius: 3px;
+}
+
+.nono1 {
+    width: 40%;
+}
+
+.footer {
+    margin-top: 50px; 
+    border-top: 1px solid black; 
+    padding: 10px; 
+    display: grid; 
+    gap: 10px;
+}
+
+.lulu1 {
+    display: flex; 
+    gap: 5px;
+}
+
+.a1 {
+    text-decoration: none; 
+    margin-right: 20px;
+}
+
+.a2 {
+    text-decoration: none; 
+    margin-right: 5px;
+}
+
+.a2 {
+    text-decoration: none; 
+    margin-right: 5px;
+}
+
+.a2 {
+    text-decoration: none; 
+    margin-right: 5px;
+}
+
+.a3 {
+    text-decoration: none; 
+    margin-left: auto;
+}
+
+.asep2 {
+    gap: 5px;
+}
+
+.asep3 {
+    display: flex;
+}
+
+.aep1 {
+    margin-left: auto; 
+    font-weight: bolder;
+}
+
+.aw1 {
+    background-color: blue; 
+    font-weight: bolder;
+}
+
+.font1 {
+    font-size: 1;
+}
+
+.font2 {
+    font-size: 2;
+}
+
+.font3 {
+    font-size: 3;
+}
+
+.fontblue {
+    font-size: 2;
+    color: blue;
+}
